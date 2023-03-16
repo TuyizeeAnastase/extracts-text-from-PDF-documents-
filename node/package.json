@@ -1,0 +1,23 @@
+{
+  "name": "extracts-text-from-pdf-documents-",
+  "version": "1.0.0",
+  "description": "Create a program that extracts text from PDF documents using Python and Node.js",
+  "main": "./app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuyizeeAnastase/extracts-text-from-PDF-documents-.git"
+  },
+  "author": "Anastase Tuyizere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuyizeeAnastase/extracts-text-from-PDF-documents-/issues"
+  },
+  "homepage": "https://github.com/TuyizeeAnastase/extracts-text-from-PDF-documents-#readme",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
